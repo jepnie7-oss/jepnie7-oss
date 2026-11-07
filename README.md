@@ -1,41 +1,70 @@
-Hi, I'm Jepnie! 👋
+Hi, I'm a Data Analyst 👋
 
-Aspiring Data Analyst | Turning Data into Insights 📊
+Welcome to my GitHub Profile!
 
-I'm an aspiring data analyst with a background in Applied Statistics with Computing. I'm developing practical skills in data analysis, visualization, and business reporting.
+I'm an aspiring Data Analyst with a Bachelor's degree in Applied Statistics with Computing. I enjoy working with data, uncovering meaningful insights, and using analysis to support better business decisions.
 
-I enjoy working with data to discover patterns, understand business performance, and support better decisions.
+I'm continuously developing my skills through practical projects and hands-on learning.
 
-🛠️ Skills I'm Developing
+---
 
+# 👩‍💻 ABOUT ME
+
+- 🎓 BSc in Applied Statistics with Computing.
+- 📊 Interested in Data Analysis and Business Intelligence.
+- 🐍 Learning and applying Python and SQL.
+- 📈 Experienced in spreadsheet analysis and data visualization.
+- 🚀 Building practical projects to strengthen my analytical skills.
+- 🎯 Open to remote opportunities and freelance data analysis projects.
+
+---
+
+# 🛠️ TECHNICAL SKILLS
+
+## Skill| Tools
+Data Analysis| Python, Pandas
+Database Analysis| SQL, SQLite
+Spreadsheets| Google Sheets
+Data Visualization| Charts, Dashboards
+Version Control| GitHub
+
+---
+
+# 📂 FEATURED PROJECTS
+
+## 1. Boutique Sales Analysis
+
+Analyzed boutique sales data to understand product performance, revenue distribution, and business trends.
+
+"View Project" (https://github.com/jepnie7-oss/Boutique_sales_analysis)
+
+## 2. Product Profitability Analysis
+
+Analyzed product revenue, costs, gross profit, and profit margins to identify profitable products.
+
+"View Project" (https://github.com/jepnie7-oss/Boutique_sales_analysis/tree/main/Product_Profitability_Analysis)
+
+## 3. Boutique Inventory Analysis
+
+Examined stock levels, closing inventory, and reorder requirements to support inventory management decisions.
+
+"View Project" (https://github.com/jepnie7-oss/Boutique_sales_analysis/tree/main/Boutique_Inventory_Analysis)
+
+---
+
+# 🌱 CURRENTLY LEARNING
+
+- Advanced SQL
 - Python for Data Analysis
-- SQL
-- Google Sheets
-- Data Cleaning
-- Data Visualization
-- Business Reporting
+- Business Intelligence
+- Practical Data Reporting
 
-📁 My Portfolio Projects
+---
 
-1. Boutique Sales Analysis
+# 🎯 MY CAREER GOAL
 
-Analyzed product revenue, costs, gross profit, and profit margins using Google Sheets.
+To grow as a professional Data Analyst, solve real-world business problems using data, and contribute to organizations through meaningful insights and informed decision-making.
 
-"View Boutique Sales Analysis" (https://github.com/jepnie7-oss/Boutique_sales_analysis)
+---
 
-2. Daily Sales Analysis
-
-Analyzed five days of sales data, calculated performance indicators, and created visualizations using Google Sheets.
-
-"View Daily Sales Analysis" (https://github.com/jepnie7-oss/Boutique_sales_analysis/tree/main/Daily_Sales_Analysis)
-
-🎯 My Current Goals
-
-- Improve my Python and SQL skills.
-- Build practical data analysis projects.
-- Develop a strong data analytics portfolio.
-- Work towards remote and freelance data analysis opportunities.
-
-🌱 Learning Every Day
-
-Thanks for visiting my profile!
+Thank you for visiting my profile! 😊
