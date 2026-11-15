@@ -57,7 +57,8 @@ A practical data cleaning project using Google Sheets. Identified and removed du
 
 **Key skills:** Data Cleaning | Data Quality Assessment | Google Sheets
 
-[View Project](https://github.com/jepnie7-oss/ecommerce-data-cleaning-project)
+View Project (https://github.com/jepnie7-oss/Ecommerce_Data_Cleaning_Project)
+
 ---
 
 # 🌱 CURRENTLY LEARNING
