@@ -50,6 +50,14 @@ Examined stock levels, closing inventory, and reorder requirements to support in
 
 "View Project" (https://github.com/jepnie7-oss/Boutique_sales_analysis/tree/main/Boutique_Inventory_Analysis)
 
+
+### E-commerce Data Cleaning Project
+
+A practical data cleaning project using Google Sheets. Identified and removed duplicate records, handled missing values, standardized dates and cleaned sales data.
+
+**Key skills:** Data Cleaning | Data Quality Assessment | Google Sheets
+
+[View Project](https://github.com/jepnie7-oss/ecommerce-data-cleaning-project)
 ---
 
 # 🌱 CURRENTLY LEARNING
